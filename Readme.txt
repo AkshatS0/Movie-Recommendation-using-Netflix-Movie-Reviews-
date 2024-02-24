@@ -28,6 +28,6 @@ Usage Example:
 To demonstrate the recommendation system, two users (712664 and 2643029) are provided as examples. The Recommendation function is used to generate movie recommendations for these users based on their preferences.
 
 Notes
-This code assumes that the required datasets are present in the same directory as the script.
-Make sure to adjust file paths and dependencies according to your environment.
-Feel free to customize and extend the code for your specific use case or dataset.
+1. This code assumes that the required datasets are present in the same directory as the script.
+2. Make sure to adjust file paths and dependencies according to your environment.
+3. Feel free to customize and extend the code for your specific use case or dataset.
